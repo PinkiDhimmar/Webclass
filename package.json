@@ -1,0 +1,22 @@
+{
+  "name": "webclass",
+  "version": "1.0.0",
+  "description": "This is a class work for MSD51",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinkiDhimmar/Webclass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PinkiDhimmar/Webclass/issues"
+  },
+  "homepage": "https://github.com/PinkiDhimmar/Webclass#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
